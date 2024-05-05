@@ -5,7 +5,7 @@ Click nbfs://nbhost/SystemFileSystem/Templates/Other/html.html to edit this temp
 -->
 <html><head>
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
-        <title>Stochastic continuity equations with conservative noise</title>
+noise</title>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
     </head>
